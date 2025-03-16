@@ -1,4 +1,4 @@
-#Diziler (Arrays) Nedir?
+# Diziler (Arrays) Nedir?
 ### Diziler aynı veri tipindeki değerleri düzenli bir şekilde depolayan yapıdır. 
 -Bellek kullanımı optimize edilebilir.
 -Benzer veriler bir dizi içinde toplanabilir.
